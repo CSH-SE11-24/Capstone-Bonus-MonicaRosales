@@ -1,0 +1,60 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#ball{
+  width: 100px;
+  height: 100px;
+}
+
+/* Changing the font of the text */
+.mid{
+  text-align: center;
+  font-family: "LXGW WenKai TC", cursive;
+
+}
+
+/* Changing the font of the text withing the cards */
+.card-title,
+.card-text{
+  font-family: "LXGW WenKai TC", cursive;
+}
+
+
+/* changing navbar background color */
+.navbar{
+  background-color: lightpink;
+}
+
+#body1{
+  background-color: beige;
+}
+
+.navbar-brand,
+.nav-link{
+  color: black !important;
+font-family: "LXGW WenKai TC", cursive;
+}
+
+#dark{
+  background-color: #3b3c4e;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+#light{
+  background-color: lightyellow;
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.card-body{
+  background-color: beige;
+}
+
+.card{
+  background-color: beige !important;
+}

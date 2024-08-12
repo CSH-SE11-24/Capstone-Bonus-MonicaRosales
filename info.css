@@ -1,0 +1,45 @@
+#ball2 {
+  width: 100px;
+  height: 100px;
+}
+
+.navbar {
+  background-color: lightpink;
+}
+
+#body2 {
+  background-color: beige;
+}
+
+/* Changing the navbar font */
+.navbar-brand,
+.nav-link {
+  color: black !important;
+  font-family: "LXGW WenKai TC", cursive;
+}
+
+
+/* Changing the color of the buttons */
+#dark {
+  background-color: #3b3c4e;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+#light {
+  background-color: lightyellow;
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.text {
+  font-family: "LXGW WenKai TC", cursive;
+  text-align: center;
+}
+
+.text2 {
+  font-family: "LXGW WenKai TC", cursive;
+margin-left: 20px;
+}

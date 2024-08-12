@@ -1,0 +1,67 @@
+#ball3 {
+  width: 100px;
+  height: 100px;
+}
+
+
+/* Styling for the Pelussa image */
+#Pelos {
+  height: 500px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: 0px;
+}
+
+.middle {
+  text-align: center;
+}
+
+/* Styling for the Musty image */
+#musty {
+  height: 600px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: 0px;
+}
+
+.navbar {
+  background-color: lightpink;
+}
+
+#body3 {
+  background-color: beige;
+}
+
+.navbar-brand,
+.nav-link {
+  color: black !important;
+  font-family: "LXGW WenKai TC", cursive;
+}
+
+.font {
+  font-family: "LXGW WenKai TC", cursive;
+}
+
+#fon {
+  font-family: "LXGW WenKai TC", cursive;
+  margin-top: 25px;
+}
+
+#font {
+  font-family: "LXGW WenKai TC", cursive;
+  margin-top: 25px;
+}
+
+#dark{
+  background-color: #3b3c4e;
+  color: white;
+  margin-top: 10px;
+}
+
+#light{
+  background-color: lightyellow;
+  color: black;
+  margin-top: 10px;
+}
